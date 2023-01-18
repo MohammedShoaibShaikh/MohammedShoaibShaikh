@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA & Web-Development Skills.<br>🌱 I’m currently learning Machine Learning & Data Science.<br>👯 I’m looking to collaborate on Machine Learning & Web-Development Projects.<br>💬 Ask me about Data Structure, Web-Development, and Github.<br>
+🔭 I’m currently working on DSA & Web-Development Skills.<br>🌱 I’m currently learning Machine Learning & Data Science.<br>👯 I’m looking to collaborate on Machine Learning & Web-Development Projects.<br>💬 Ask me about Data Structure, Machine Learning, Web-Development, and Github.<br>
 
 
 ## 🌐 Socials:
